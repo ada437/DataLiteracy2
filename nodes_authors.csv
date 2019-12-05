@@ -1,0 +1,11 @@
+,author_id,Roles,posts,thread_started,subthread_started,comment_count,thread_initiatior
+1,P1,Research,41,0,7,34,Initiator
+2,P2,Math,53,4,13,36,Initiator
+3,P3,Research,35,5,4,26,Initiator
+4,P4,Math,25,0,8,17,Initiator
+5,P5,Math,59,2,5,52,Initiator
+6,P6,Research,11,0,2,9,Initiator
+7,P7,Art,12,1,2,9,Initiator
+8,P8,Research,33,2,9,22,Initiator
+9,P9,Art,31,3,12,16,Initiator
+10,P10,Research,2,0,1,1,Initiator

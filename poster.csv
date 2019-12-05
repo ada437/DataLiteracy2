@@ -1,0 +1,29 @@
+,Roles,author_id,comment_thread_id,theme,posts,Reflection,Reasoning,Elaboration,Synthesis,Clarification,Alternative,Consensus
+1,Art,P9,1,Shakespeare,3,0,0,2,0,0,0,1
+2,Art,P9,3,DigitalDataInstallation,2,1,0,1,0,0,0,0
+3,Art,P9,4,TrafficPatterns,8,7,0,1,0,0,0,0
+4,Art,P9,5,Music ,6,3,1,1,0,0,0,1
+5,Art,P9,6,TallyMarks,3,0,0,3,0,0,0,0
+6,Art,P9,7,Cats,6,5,0,0,0,0,0,0
+7,Math,P4,1,Shakespeare,4,2,0,1,1,0,0,0
+8,Math,P4,2,ChrisJordan,3,2,0,1,0,0,0,0
+9,Math,P4,3,DigitalDataInstallation,5,3,0,1,0,0,0,1
+10,Math,P4,4,TrafficPatterns,2,1,0,0,0,0,0,1
+11,Math,P4,5,Music ,2,0,0,0,0,1,0,1
+12,Math,P4,6,TallyMarks,2,1,0,1,0,0,0,0
+13,Math,P4,7,Cats,1,0,0,0,0,0,0,0
+14,Research,P1,1,Shakespeare,9,2,2,3,0,1,0,1
+15,Research,P1,2,ChrisJordan,9,3,0,4,0,1,1,0
+16,Research,P1,3,DigitalDataInstallation,7,2,1,3,0,0,0,1
+17,Research,P1,4,TrafficPatterns,6,3,2,1,0,0,0,0
+18,Research,P1,5,Music ,4,1,0,0,0,1,1,1
+19,Research,P1,6,TallyMarks,5,1,0,4,0,0,0,0
+20,Research,P1,7,Cats,1,0,0,1,0,0,0,0
+21,Research,P3,1,Shakespeare,12,6,1,2,0,1,1,1
+22,Research,P3,2,ChrisJordan,8,4,0,4,0,0,0,0
+23,Research,P3,3,DigitalDataInstallation,3,0,0,3,0,0,0,0
+24,Research,P3,6,TallyMarks,4,0,1,3,0,0,0,0
+25,Research,P8,1,Shakespeare,4,4,0,0,0,0,0,0
+26,Research,P8,2,ChrisJordan,3,3,0,0,0,0,0,0
+27,Research,P8,3,DigitalDataInstallation,2,1,0,1,0,0,0,0
+28,Research,P8,6,TallyMarks,3,2,0,1,0,0,0,0
