@@ -6,9 +6,8 @@ Created on Sun Nov 10 09:40:00 2019
 @author: anna_amato
 """
 
-import json
+
 import dash
-import dash_cytoscape as cyto
 import dash_html_components as html
 import dash_core_components as dcc
 import pandas as pd
@@ -17,7 +16,7 @@ import flask
 import dash_bootstrap_components as dbc
 import plotly.express as px
 
-cyto.load_extra_layouts()
+
 external_stylesheets =['https://codepen.io/chriddyp/pen/bWLwgP.css', dbc.themes.BOOTSTRAP]
 app = dash.Dash(__name__,external_stylesheets=external_stylesheets,
 meta_tags=[
