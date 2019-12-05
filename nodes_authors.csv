@@ -1,4 +1,4 @@
-,author_id,Roles,posts,thread_started,subthread_started,comment_count,thread_initiatior
+,Participant,Roles,Contributions,ThreadStarted,SubthreadStarted,comment_count,ThreadInitiator
 1,P1,Research,41,0,7,34,Initiator
 2,P2,Math,53,4,13,36,Initiator
 3,P3,Research,35,5,4,26,Initiator
